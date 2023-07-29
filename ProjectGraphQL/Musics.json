@@ -1,0 +1,15 @@
+{
+  "musics": [
+    {
+      "name": "Stay with me",
+      "comment": "music of year of 2005",
+      "artists": [
+        {
+          "name": "Creed",
+          "id": "0c258e42-3d63-4867-9427-fe02d6eaa89c"
+        }
+      ],
+      "id": "8db86bfa-2afc-4682-a05f-1bdf33987457"
+    }
+  ]
+}
